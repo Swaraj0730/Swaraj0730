@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swaraj0730
-- 👀 I’m interested in python and fullstack dev.
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in python and java dev.
+- 🌱 I’m currently learning springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
