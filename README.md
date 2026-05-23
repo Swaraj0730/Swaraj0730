@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lyMTRnYjF2ejJ4dTdxb3A2a3FhMWs5YWVxY2F3MXR0aGZjb3V5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378zKVk7Eh3yHoJi/giphy.gif" width="250" />
-
 ### ☠️ Java Backend Developer • Spring Boot Learner • Future Backend Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Backend+Systems+with+Java+and+Spring+Boot;Learning+Production-Level+Backend+Engineering;Exploring+Docker%2C+APIs+and+System+Design;Grinding+DSA+and+Backend+Development+Every+Day;Code+Like+Luffy+Chases+The+One+Piece+⚡" alt="Typing SVG" />
