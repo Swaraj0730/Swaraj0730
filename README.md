@@ -4,7 +4,7 @@
 
 ### ☠️ Java Backend Developer • Spring Boot Learner • Future Backend Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Backend+Systems+with+Java+and+Spring+Boot;Learning+Production-Level+Backend+Engineering;Exploring+Docker%2C+APIs+and+System+Design;Grinding+DSA+and+Backend+Development+Every+Day;Code+Like+Luffy+Chases+The+One+Piece+⚡" alt="Typing SVG" />
+<img src="https://media.tenor.com/0ENGAwwUVF4AAAAC/luffy-gear2.gif" width="260"/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
