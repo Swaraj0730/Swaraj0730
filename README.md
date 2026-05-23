@@ -33,7 +33,7 @@ Mission: Become a strong backend engineer capable of building scalable systems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,linux,maven,postman,vscode,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,linux,maven,postman,vscode,c" />
 
 </div>
 
