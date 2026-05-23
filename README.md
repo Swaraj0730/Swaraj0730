@@ -2,11 +2,9 @@
 
 <div align="center">
 
-### ☠️ Java Backend Developer • Spring Boot Learner • Future Backend Engineer
+☠️ Java Backend Developer • Spring Boot 
 
-<img src="https://media.tenor.com/0ENGAwwUVF4AAAAC/luffy-gear2.gif" width="260"/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Swaraj0730&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -36,24 +34,6 @@ Mission: Become a strong backend engineer capable of building scalable systems
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,linux,maven,postman,vscode,c,cpp" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -140,28 +120,7 @@ Mission: Become a strong backend engineer capable of building scalable systems
 
 </div>
 
-> “I believe great backend engineering is about writing clean, scalable and maintainable systems that solve real-world problems.”
-
-### What I Focus On
-
-* Clean Architecture
-* Scalable Backend Design
-* Performance Optimization
-* Writing Maintainable Code
-* Building Real Projects
-* Consistent Learning
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
+> "developing a backbone of any website (i mean it works kind of XD) .”
 
 # 🐍 Contribution Snake
 
@@ -173,30 +132,19 @@ Mission: Become a strong backend engineer capable of building scalable systems
 
 ---
 
-# 🎯 2026 Goals
-
-* 🚀 Build Production-Level Backend Projects
-* 🐳 Master Docker
-* ☁️ Learn Deployment & DevOps Basics
-* 🏗️ Understand Microservices Architecture
-* 📚 Strengthen DSA & Problem Solving
-* 💼 Secure a Strong Backend Internship
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/swaraj-namdeo-73aa89285/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:swarajnamdeo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Swaraj0730">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -207,7 +155,4 @@ Mission: Become a strong backend engineer capable of building scalable systems
 <div align="center">
 
 ## ⚡ “The backend is invisible… until it breaks.”
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRwM3FjbmM0ZG9zc3N4N3VhM2h3M2N6bTNlMm5kMjltbDB0NWYxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QVp2ggOV3uXLi/giphy.gif" width="250" />
-
 </div>
